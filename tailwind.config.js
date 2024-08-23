@@ -17,7 +17,7 @@ module.exports = {
         /**
          * @description selection(드래그 블록)에 사용되는 컬러입니다.
          */
-        PRIMARY_LIGHT: "#8a4fff",
+        PRIMARY_LIGHT: "#cfd4d9",
 
         /**
          * @description 자기소개의 이름 부분, code tag의 darkmode에 사용되는 컬러입니다.
