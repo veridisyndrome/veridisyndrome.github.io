@@ -44,6 +44,15 @@
     },
     {
       "id": 2,
+      "name": "ImgFS",
+      "description": "Image-based file system inspired by Facebook's Haystack architecture, implemented in C for efficient storage and retrieval.",
+      "repoUrl": "https://github.com/veridisyndrome/ImgFS",
+      "isTeam": true,
+      "period": ["2023. 03", "2023. 05"],
+      "stack": ["C", "File System", "Multi-threading"]
+    },
+    {
+      "id": 3,
       "name": "Research Internship at KAIST Concurrent & Parallelism Laboratory",
       "description": "Research Topic: PIM-based AI Accelerator and Software Stack for Efficient LLM Inference",
       "repoUrl": "https://github.com/veridisyndrome",
