@@ -55,7 +55,7 @@
       "id": 3,
       "name": "Research Internship at KAIST Concurrent & Parallelism Laboratory",
       "description": "Research Topic: PIM-based AI Accelerator and Software Stack for Efficient LLM Inference",
-      "repoUrl": "https://github.com/veridisyndrome",
+      "repoUrl": "https://github.com/veridisyndrome/KAIST",
       "isTeam": true,
       "period": ["2024. 06", "2024. 08"],
       "stack": ["AI Accelerator", "LLM", "PIM"]
