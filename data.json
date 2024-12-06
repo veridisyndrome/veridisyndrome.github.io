@@ -16,14 +16,14 @@
     {
       "id": 0,
       "name": "Korea Advanced Institute of Science & Technology (KAIST)",
-      "position": "Research Intern, Concurrency & Parallelism Laboratory",
+      "position": "Research Intern, \nConcurrency & Parallelism Laboratory",
       "period": ["2024. 06", "2024. 08"],
       "description": "Focused on early-stage research in PIM-based AI accelerators for optimizing large-scale model inference, particularly for LLMs. Conducted comprehensive paper reviews, comparative analyses, reproduced experimental results, and developed new research proposals to address identified gaps."
     },
     {
       "id": 1,
       "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
-      "position": "Research Intern, Robust Scalable Systems Software Laboratory",
+      "position": "Research Intern, \nRobust Scalable Systems Software Laboratory",
       "period": ["2025. 01", "2025. 07"],
       "description": "TBD."
     }
