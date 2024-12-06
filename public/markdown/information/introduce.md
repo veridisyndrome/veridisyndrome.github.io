@@ -3,13 +3,13 @@
 **Research Intern @ EPFL RS3Lab | Ex-Research Intern @ KAIST Concurrency & Parallelism Laboratory**
 #
 **Technologies & Tools:**  
-  - **Languages:** Java, Scala, C/C++, Python  
-  - **Libraries/Tools:** PyTorch, Scikit-learn, HuggingFace  
-  - **Others:** Git, LaTeX, React
+  - **Languages:** Python, Java, Scala, C/C++, Kotlin
+  - **Libraries/Tools:** PyTorch, TensorFlow, Scikit-learn, HuggingFace, CUDA (including CUDA Graphs) 
+  - **Others:** Git, LaTeX, React, Node.js
 #
 **Research Interests:**  
 - AI Accelerators  
-- Large Language Models  
+- Large Language Models
 - Parallel Computing
 #
 **Language Proficiency:**  
@@ -18,4 +18,4 @@
 - **Spanish:** Native  
 - **Korean:** Limited Working Proficiency
 #
-**In my free time, I enjoy traveling, cooking, and exploring new coffee shops and restaurants around the world.**
+**In my free time, I enjoy traveling, cooking, and exploring new coffee shops around the world.**
