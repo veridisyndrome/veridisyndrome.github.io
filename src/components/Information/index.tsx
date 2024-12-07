@@ -16,8 +16,7 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
         />
         <div className="flex flex-col gap-2">
           <h1 className="leading-[1.15]">
-            Hello,
-            <br /> I am{" "}
+            Hello, I am{" "}
             <span className="text-PRIMARY font-semibold">{information.name}</span>
             !
           </h1>
