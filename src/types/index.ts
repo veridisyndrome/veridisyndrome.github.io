@@ -2,6 +2,7 @@ import Education from '../components/Education/index';
 export interface InformationProps {
   name: string;
   contact: { id: number; name: string; href: string; isEmail?: boolean }[];
+  quote: string;
   markdown?: string;
   imgSrc?: string;
 }
