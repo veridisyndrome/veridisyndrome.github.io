@@ -8,7 +8,7 @@ import type { AppProps } from "next/app";
  */
 const DEFAULT_SEO = {
   title: "PRG",
-  description: "안녕하세요, 프론트엔드 개발자 홍길동입니다.",
+  description: "안녕하세요, 컴퓨터 과학을 전공하는 에콜 폴리테크닉 페데랄 드 로잔(EPFL) 학생 파블로입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
