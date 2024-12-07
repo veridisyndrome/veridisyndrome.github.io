@@ -34,7 +34,7 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
           </div>
         </div>
       </div>
-      <blockquote className="whitespace-pre-wrap">{`${information.markdown}`}</blockquote>
+      <blockquote className="whitespace-pre-wrap">{`${information.quote}`}</blockquote>
       {information.markdown && (
           <div className="markdown mt-4">
             <ReactMarkdown remarkPlugins={[remarkGfm]}>{information.markdown}</ReactMarkdown>
