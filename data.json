@@ -10,7 +10,7 @@
       {"id": 1, "name": "Github", "href": "https://github.com/veridisyndrome"},
       {"id": 2, "name": "Resume", "href": "https://drive.google.com/file/d/1lILpxa8nxmamxckrUURIY0Z4hRs_da7o/view?usp=sharing"}
     ],
-    "quote": "EPFL BSc CS student specializing in Communication Systems and Machine Learning. I’m particularly interested in efficient AIGC, software-hardware co-optimization, and edge computing, working to make large-scale models more computationally feasible and practical. Beyond scaling models, I’ve been exploring the fundamental gaps in AI reasoning. What’s holding today’s models back from being truly efficient and intelligent? As my understanding evolves, I draw insights from human cognition to investigate how AI can infer, learn, and generalize more effectively."
+    "quote": "BSc CS @ EPFL & Research Intern @ RS3Lab | Upcoming Visiting Student @ Tsinghua University NICS Lab"
   },
 
   "workExperience": [
@@ -32,7 +32,7 @@
       "id": 2,
       "name": "Tsinghua University (THU)",
       "position": "Visiting Student Researcher, \nNICS Lab",
-      "period": ["2025. 07", ""],
+      "period": ["2025. 07", "2026. 03"],
       "description": "Focused on efficient deep learning algorithms for AI-generated content (AIGC), optimizing inference for large generative models in text and vision. Collaborating with the Eff-Alg Group to push the limits of AI efficiency and scalability."
     }
   ],
