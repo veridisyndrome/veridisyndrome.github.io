@@ -10,7 +10,9 @@
       {"id": 1, "name": "Github", "href": "https://github.com/veridisyndrome"},
       {"id": 2, "name": "Resume", "href": "https://drive.google.com/file/d/1lILpxa8nxmamxckrUURIY0Z4hRs_da7o/view?usp=sharing"}
     ],
-    "quote": "𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 𝘁𝗵𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗼𝗳 𝗹𝗮𝗿𝗴𝗲-𝘀𝗰𝗮𝗹𝗲 𝗺𝗼𝗱𝗲𝗹𝘀, 𝗮𝗶𝗺𝗶𝗻𝗴 𝘁𝗼 𝗽𝘂𝘀𝗵 𝘁𝗵𝗲 𝗯𝗼𝘂𝗻𝗱𝗮𝗿𝗶𝗲𝘀 𝗼𝗳 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆. 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲𝗼𝗿𝗲𝘁𝗶𝗰𝗮𝗹 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀 𝗶𝗻𝘁𝗼 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹, 𝗶𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀."
+    "quote": "EPFL BSc CS student specializing in Communication Systems and Machine Learning.
+I’m particularly interested in efficient AIGC, software-hardware co-optimization, and edge computing, working to make large-scale models more computationally feasible and practical.
+Beyond scaling models, I’ve been exploring the fundamental gaps in AI reasoning. What’s holding today’s models back from being truly efficient and intelligent? As my understanding evolves, I draw insights from human cognition to investigate how AI can infer, learn, and generalize more effectively."
   },
 
   "workExperience": [
@@ -26,7 +28,14 @@
       "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
       "position": "Research Intern, \nRobust Scalable Systems Software Laboratory",
       "period": ["2025. 01", "2025. 07"],
-      "description": "TBD."
+      "description": "Multi-modal Models on Edge (Ongoing)"
+    },
+    {
+      "id": 2,
+      "name": "Tsinghua University (THU)",
+      "position": "Visiting Student Researcher, \nNICS Lab",
+      "period": ["2025. 07", ""],
+      "description": "Focused on efficient deep learning algorithms for AI-generated content (AIGC), optimizing inference for large generative models in text and vision. Collaborating with the Eff-Alg Group to push the limits of AI efficiency and scalability."
     }
   ],
 
