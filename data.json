@@ -10,9 +10,7 @@
       {"id": 1, "name": "Github", "href": "https://github.com/veridisyndrome"},
       {"id": 2, "name": "Resume", "href": "https://drive.google.com/file/d/1lILpxa8nxmamxckrUURIY0Z4hRs_da7o/view?usp=sharing"}
     ],
-    "quote": "EPFL BSc CS student specializing in Communication Systems and Machine Learning.
-I’m particularly interested in efficient AIGC, software-hardware co-optimization, and edge computing, working to make large-scale models more computationally feasible and practical.
-Beyond scaling models, I’ve been exploring the fundamental gaps in AI reasoning. What’s holding today’s models back from being truly efficient and intelligent? As my understanding evolves, I draw insights from human cognition to investigate how AI can infer, learn, and generalize more effectively."
+    "quote": "EPFL BSc CS student specializing in Communication Systems and Machine Learning. I’m particularly interested in efficient AIGC, software-hardware co-optimization, and edge computing, working to make large-scale models more computationally feasible and practical. Beyond scaling models, I’ve been exploring the fundamental gaps in AI reasoning. What’s holding today’s models back from being truly efficient and intelligent? As my understanding evolves, I draw insights from human cognition to investigate how AI can infer, learn, and generalize more effectively."
   },
 
   "workExperience": [
