@@ -23,9 +23,9 @@ repository               : "veridisyndrome/veridisyndrome.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pablo Robin Guerrero - 知昀"
-  pronouns         : "he/him"  
-  bio              : " Visiting Student Researcher at Tsinghua University (NICS Lab) | Focused on Efficient AIGC, HW/SW Co-Design & Sparse Computation | Ex-EPFL BSc CS student specializing in Communication Systems and Machine Learning"
+  name             : "Pablo Robin Guerrero"
+  pronouns         : "He/him"  
+  bio              : #
   location         : "Beijing"
   employer         : "Tsinghua University - NICS Lab"
   uri              : # URL
