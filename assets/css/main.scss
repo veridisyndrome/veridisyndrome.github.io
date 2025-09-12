@@ -40,3 +40,61 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Rounded rectangle ("squircle") */
+.author__avatar img {
+  border-radius: 12px !important;  /* adjust corner radius */
+  border: none !important;
+  background: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
+/* ===== CV page styling tweaks ===== */
+.page__content h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+
+/* Improve bullet spacing */
+.page__content ul {
+  margin-left: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+/* Make top-level bullets stand out more */
+.page__content ul > li {
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+}
+
+/* Sub-bullets lighter and smaller */
+.page__content ul li ul li {
+  font-weight: 400;
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 0.3rem;
+}
+
+/* Add subtle left border for sub-bullets */
+.page__content ul li ul {
+  border-left: 2px solid #eee;
+  padding-left: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+/* Align navbar items to the right */
+.masthead__menu {
+  margin-left: auto;  /* pushes nav to the right */
+}
+
+/* Ensure nav links stay in a row */
+.masthead__menu-items {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1.2rem; /* optional: spacing between items */
+}
