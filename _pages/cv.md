@@ -22,9 +22,9 @@ Education
 Research Experience
 ======
 * **Research Intern**, NICS Lab — Tsinghua University, Beijing, China  
-  * July 2025 – Currently
-  * Research topic: Model-Level Optimization for Efficient AI-Generated Content (AIGC) Inference (TBD)  
-  * Supervisors: Prof. Yu Wang, Dr. Xuefei Ning, and Tianchen Zhao  
+  * July 2025 – September 2025
+  * Research topic: Model-Level Optimization for Efficient AI-Generated Content (AIGC) Inference 
+  * Supervisors: Prof. Yu Wang and Dr. Xuefei Ning
 
 * **Research Intern**, Robust Scalable Systems Software Laboratory (RS3) — EPFL, Lausanne, Switzerland  
   * Jan 2025 – July 2025  
