@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Neural Coding, Learning Dynamics, Cognition
+
 Education
 ======
 * B.Sc. in Computer Science, **EPFL** — Sept 2022 – July 2025  
