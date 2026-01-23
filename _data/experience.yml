@@ -1,0 +1,51 @@
+- position: Research Intern
+  company: ENS-PSL, Neural Circuit dynamics & Behaviour Lab
+  company_url: "https://rs3lab.epfl.ch/"
+  company_icon: /assets/images/ens_logo.png
+  location: Paris, France
+  period: January 2026 - Present
+  description: "Computational Analysis of Dolphin Acoustic Communication and Vocal Structure"
+  mentors:
+    - name: "Prof. Germán Sumbre"
+      url: "https://www.ibens.bio.ens.psl.eu/spip.php?rubrique23&lang=en"
+    - name: "Faadil Mustun"
+      url: "https://www.zebrain.biologie.ens.fr/team.html"
+
+- position: Research Intern, Efficient Deep Learning Algorithm Team
+  company: Tsinghua University, NICS Lab
+  company_url: "https://rs3lab.epfl.ch/"
+  company_icon: /assets/images/nics_logo.png
+  location: Beijing, China
+  period: July 2025 - September 2025
+  description: "Model-Level Optimization for Efficient Generative Inference via Latent-Space Routing"
+  mentors:
+    - name: "Prof. Yu Wang"
+      url: "https://nicsefc.ee.tsinghua.edu.cn/people/YuWang"
+    - name: "Dr. Xuefei Ning"
+      url: "https://nicsefc.ee.tsinghua.edu.cn/people/XuefeiNing"
+
+- position: Research Intern
+  company: EPFL, RS3Lab
+  company_url: "https://rs3lab.epfl.ch/"
+  company_icon: /assets/images/epfl_logo.png
+  location: Lausanne, Switzerland
+  period: January 2025 - July 2025
+  description: "Efficient Deployment of Vision-Language Models on Mobile Devices"
+  mentors:
+    - name: "Prof. Sanidhya Kashyap"
+      url: "https://sanidhya.github.io/"
+    - name: "Yueyang Pan"
+      url: "https://panjason.github.io/"
+
+- position: Research Intern
+  company: KAIST, Concurrency & Parallelism Laboratory
+  company_url: "https://dslab.epfl.ch/"
+  company_icon: /assets/images/kaist_logo.png
+  location: Daejeon, South Korea
+  period: June 2024 - August 2024
+  description: "PIM-based AI Accelerator and Software Stack for Efficient LLM Inference"
+  mentors:
+    - name: "Prof. Jeehoon Kang "
+      url: "https://cp.kaist.ac.kr/jeehoon.kang/"
+    - name: "Haechan An"
+      url: "https://cp.kaist.ac.kr/haechan.an/"

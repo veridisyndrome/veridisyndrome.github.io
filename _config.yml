@@ -1,0 +1,50 @@
+# Academic Profile Website
+# Site settings
+
+name: Pablo Robin Guerrero
+title: Pablo Robin Guerrero's Website
+position: Research Intern
+department: Neural Circuit dynamics & Behaviour (Zebrain Lab)
+department_url: "https://www.zebrain.biologie.ens.fr/"
+institution: École Normale Supérieure Ulm (ENS-PSL)
+institution_url: "https://www.ens.psl.eu/"
+email: pablo.robin@epfl.ch
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the personal website of Pablo Robin Guerrero
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://veridisyndrome.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+office: "46 Rue d'Ulm, Paris, 75005"
+cv: /assets/cv.pdf
+github_username:  veridisyndrome
+github_url: "https://github.com/veridisyndrome"
+google_scholar: "https://scholar.google.com/citations?user=VW_fWkMAAAAJ&hl=en&oi=ao"
+profile_image: "/assets/images/profile.png"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections for publications
+collections:
+  publications:
+    output: false
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

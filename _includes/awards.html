@@ -1,0 +1,7 @@
+<div class="section">
+  <ul class="awards-list">
+    {% for item in site.data.awards %}
+      <p class="award-item"><strong>{{ item.award }}</strong>, {{ item.organization }}, {{ item.year }}</p>
+    {% endfor %}
+  </ul>
+</div>

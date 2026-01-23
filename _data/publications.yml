@@ -1,0 +1,23 @@
+- title: "Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R"
+  authors: ["Pablo Robin Guerrero*", "Yueyang Pan† ", "Sanidhya Kashyap† "]
+  venue: "Preprint"
+  year: 2025
+  links:
+    pdf: "assets/papers/2507.08505v2.pdf"
+  bibtex: |
+    @misc{guerrero2025efficientdeploymentvisionlanguagemodels,
+      title={Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R}, 
+      author={Pablo Robin Guerrero and Yueyang Pan and Sanidhya Kashyap},
+      year={2025},
+      eprint={2507.08505},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.08505}, 
+    }
+
+- title: "PIM-based AI Accelerator and Software Stack for Efficient LLM Inference"
+  authors: ["Pablo Robin Guerrero"]
+  venue: "Technical Report"
+  year: 2024
+  links:
+    pdf: "assets/papers/PIM_based_AI_accelerator_and_software_stack_for_efficient_LLM_inference.pdf"

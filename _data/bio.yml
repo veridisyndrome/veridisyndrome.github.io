@@ -1,0 +1,23 @@
+description: |
+  I am a Bachelor student in Communication Systems at [EPFL](https://www.epfl.ch/en/), with a strong focus on
+  theoretical computer science and machine learning. My academic interests lie at
+  the intersection of representation learning, computational modeling, and the
+  study of communication and behavior.
+
+  I am currently a research intern at [École Normale Supérieure (ENS-PSL)](https://www.ens.psl.eu/), where I
+  work on the computational analysis of dolphin acoustic communication. My research
+  focuses on learning acoustic representations from animal vocalizations to
+  identify phoneme-like units and characterize long-term temporal organization in
+  vocal sequences.
+
+  Previously, I have conducted research on efficient machine learning systems and
+  inference optimization. At [EPFL](https://rs3lab.epfl.ch/) and [Tsinghua University](https://nics-effalg.com/), I worked on efficient
+  deployment of vision-language models on mobile devices and latent-space routing
+  for generative inference, studying efficiency–performance trade-offs under
+  constrained hardware settings.
+
+  More broadly, I am interested in cognition and linguistics, with a focus on how
+  structured representations emerge from complex signals and support communication
+  and behavior. I am particularly interested in computational approaches that use
+  representation learning to study language, vocal communication, and other
+  high-dimensional sensory data.
