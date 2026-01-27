@@ -26,11 +26,6 @@
           <p class="details">{{ item.gpa }}</p>
         {% endif %}
       </div>
-      {% if item.logo %}
-        <div class="education-logo">
-          <img src="{{ item.logo | relative_url }}" alt="{{ item.institution }} logo">
-        </div>
-      {% endif %}
     </div>
   {% endfor %}
 </div>

@@ -8,9 +8,6 @@
           {% else %}
             <span class="company">{{ item.company }}</span>
           {% endif %}
-          {% if item.company_icon %}
-            <img class="company-icon" src="{{ item.company_icon | relative_url }}" alt="{{ item.company }} icon" />
-          {% endif %}
           {% if item.location %}
             <span class="location">, {{ item.location }}</span>
           {% endif %}
