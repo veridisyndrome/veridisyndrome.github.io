@@ -1,10 +1,10 @@
-- position: Research Intern
-  company: ENS-PSL, Neural Circuit dynamics & Behaviour Lab
-  company_url: "https://rs3lab.epfl.ch/"
+- position: Research Engineer
+  company: ENS-PSL, Neural Circuit dynamics & Behaviour Laboratory
+  company_url: "https://www.zebrain.biologie.ens.fr/"
   company_icon: /assets/images/ens_logo.png
   location: Paris, France
   period: January 2026 - Present
-  description: "Computational Analysis of Dolphin Acoustic Communication and Vocal Structure"
+  description: "Social and Latent Acoustic Structure in Bottlenose Dolphin Communication: Linking Whistles to Behaviour"
   mentors:
     - name: "Prof. Germán Sumbre"
       url: "https://www.ibens.bio.ens.psl.eu/spip.php?rubrique23&lang=en"
@@ -26,7 +26,7 @@
 
 - position: Research Intern
   company: EPFL, RS3Lab
-  company_url: "https://rs3lab.epfl.ch/"
+  company_url: "https://rs3lab.github.io/"
   company_icon: /assets/images/epfl_logo.png
   location: Lausanne, Switzerland
   period: January 2025 - July 2025

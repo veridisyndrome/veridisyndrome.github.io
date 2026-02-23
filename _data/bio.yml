@@ -4,11 +4,11 @@ description: |
   the intersection of representation learning, computational modeling, and the
   study of communication and behavior.
 
-  I am currently a research intern at [École Normale Supérieure (ENS-PSL)](https://www.ens.psl.eu/), where I
-  work on the computational analysis of dolphin acoustic communication. My research
-  focuses on learning acoustic representations from animal vocalizations to
-  identify phoneme-like units and characterize long-term temporal organization in
-  vocal sequences.
+  I am currently a Research Engineer at [École Normale Supérieure Ulm (ENS-PSL)](https://www.ens.psl.eu/) in Paris, France,
+  in the [Neural Circuit Dynamics & Behaviour Laboratory](https://www.zebrain.biologie.ens.fr/). My work focuses on the social and latent acoustic structure of 
+  bottlenose dolphin communication, aiming to link whistles to behaviour. In particular, I investigate codebook structure and 
+  learn acoustic representations from dolphin vocalizations to identify phoneme-like units and characterize the long-term temporal organization of whistle sequences, and I relate these representations to temporal structure and behavioural context to probe how dolphin vocal sequences are organized.
+
 
   Previously, I have conducted research on efficient machine learning systems and
   inference optimization. At [EPFL](https://rs3lab.epfl.ch/) and [Tsinghua University](https://nics-effalg.com/), I worked on efficient
