@@ -1,5 +1,5 @@
 - position: Research Engineer
-  company: ENS-PSL, Neural Circuit dynamics & Behaviour Laboratory
+  company: École Normale Supérieure, Neural Circuit dynamics & Behaviour Laboratory
   company_url: "https://www.zebrain.biologie.ens.fr/"
   company_icon: /assets/images/ens_logo.png
   location: Paris, France
@@ -9,7 +9,7 @@
     - name: "Prof. Germán Sumbre"
       url: "https://www.ibens.bio.ens.psl.eu/spip.php?rubrique23&lang=en"
     - name: "Faadil Mustun"
-      url: "https://www.zebrain.biologie.ens.fr/team.html"
+      url: "https://fmustun.github.io/"
 
 - position: Research Intern, Efficient Deep Learning Algorithm Team
   company: Tsinghua University, NICS Lab

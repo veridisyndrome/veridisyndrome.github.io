@@ -4,8 +4,8 @@ description: |
   the intersection of representation learning, computational modeling, and the
   study of communication and behavior.
 
-  I am currently a Research Engineer at [École Normale Supérieure de Paris (ENS-PSL)](https://www.ens.psl.eu/),
-  in the [Neural Circuit Dynamics & Behaviour Laboratory](https://www.zebrain.biologie.ens.fr/). My work focuses on the social and latent acoustic structure of 
+  I am currently a Research Engineer at [École Normale Supérieure](https://www.ens.psl.eu/)
+  in the [Neural Circuit dynamics & Behaviour Laboratory](https://www.zebrain.biologie.ens.fr/). My work focuses on the social and latent acoustic structure of 
   bottlenose dolphin communication, aiming to link whistles to behaviour. In particular, I investigate codebook structure and 
   learn acoustic representations from dolphin vocalizations to identify phoneme-like units and characterize the long-term temporal organization of whistle sequences, and I relate these representations to temporal structure and behavioural context to probe how dolphin vocal sequences are organized.
 
