@@ -118,6 +118,34 @@ body {
   margin-right: 5px;
 }
 
+/* News */
+.news-list {
+  margin-bottom: 1.5rem;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  gap: 1rem;
+  padding: 0.4rem 0;
+}
+
+.news-date {
+  color: #6c757d;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.news-text a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.news-text a:hover {
+  color: #003d80;
+  text-decoration: underline;
+}
+
 .education-item {
   display: flex;
   justify-content: space-between;

@@ -3,6 +3,11 @@ layout: default
 title: Pablo Robin Guerrero
 ---
 
+{% if site.data.news %}
+## News
+{% include news.html %}
+{% endif %}
+
 {% if site.data.bio.description %}
 <div class="section">
   <div class="bio">

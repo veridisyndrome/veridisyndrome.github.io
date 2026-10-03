@@ -61,7 +61,7 @@
         {%- for link in pub.links -%}
           {%- assign key = link[0] -%}
           {%- if key != 'pdf' and key != 'code' -%}
-            <a href="{{ link[1] }}" class="publication-link">{{ key | upcase }}</a>
+            <a href="{{ link[1] }}" class="publication-link">{% if key == 'project' or key == 'data' %}[{{ key }}]{% else %}{{ key | upcase }}{% endif %}</a>
           {%- endif -%}
         {%- endfor -%}
       {% endif %}
