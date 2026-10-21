@@ -1,6 +1,6 @@
 - position: Research Engineer
-  company: École Normale Supérieure, Neural Circuit dynamics & Behaviour Laboratory
-  company_url: "https://www.zebrain.biologie.ens.fr/"
+  company: École Normale Supérieure, Neural Circuit & Behaviour Laboratory
+  company_url: "https://sumbre-lab.github.io/"
   company_icon: /assets/images/ens_logo.png
   location: Paris, France
   period: January 2026 - Present
@@ -8,12 +8,12 @@
   mentors:
     - name: "Prof. Germán Sumbre"
       url: "https://www.ibens.bio.ens.psl.eu/spip.php?rubrique23&lang=en"
-    - name: "Faadil Mustun"
+    - name: "Dr. Faadil Mustun"
       url: "https://fmustun.github.io/"
 
 - position: Research Intern, Efficient Deep Learning Algorithm Team
   company: Tsinghua University, NICS Lab
-  company_url: "https://rs3lab.epfl.ch/"
+  company_url: "https://nicsefc.ee.tsinghua.edu.cn/"
   company_icon: /assets/images/nics_logo.png
   location: Beijing, China
   period: July 2025 - September 2025
@@ -39,13 +39,13 @@
 
 - position: Research Intern
   company: KAIST, Concurrency & Parallelism Laboratory
-  company_url: "https://dslab.epfl.ch/"
+  company_url: "https://fearless.systems/"
   company_icon: /assets/images/kaist_logo.png
   location: Daejeon, South Korea
   period: June 2024 - August 2024
   description: "PIM-based AI Accelerator and Software Stack for Efficient LLM Inference"
   mentors:
-    - name: "Prof. Jeehoon Kang "
-      url: "https://cp.kaist.ac.kr/jeehoon.kang/"
+    - name: "Prof. Jeehoon Kang"
+      url: "https://fearless.systems/jeehoon.kang/"
     - name: "Haechan An"
-      url: "https://cp.kaist.ac.kr/haechan.an/"
+      url: "https://fearless.systems/haechan.an/"
